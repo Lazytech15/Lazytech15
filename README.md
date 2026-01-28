@@ -46,15 +46,15 @@
 
 ### 「 FRONTEND ARSENAL 」
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs,vite,redux&theme=dark" />
 
 ### 「 BACKEND OPERATIONS 」
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python,firebase,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python,firebase,mysql,mongodb&theme=dark" />
 
 ### 「 MOBILE & DESKTOP BATTALION 」
 
-<img src="https://skillicons.dev/icons?i=react,electron&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,electron,androidstudio,flutter&theme=dark" />
 
 ### 「 IOT & HARDWARE DIVISION 」
 
