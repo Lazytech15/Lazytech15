@@ -6,7 +6,7 @@
 
 [![Open to Remote Work](https://img.shields.io/badge/Open_to-Remote_Work-0F6E56?style=flat-square&labelColor=E1F5EE)](mailto:your-email@example.com)
 [![Offline-First](https://img.shields.io/badge/Architecture-Offline--First-1D9E75?style=flat-square&labelColor=E1F5EE)](https://github.com/Lazytech15)
-[![Location](google.com/maps/search/Pililla%2C%20Rizal%2C%20Calabarzon%2C%201910%2C%20Philippines)](https://github.com/Lazytech15)
+[![Location](https://img.shields.io/badge/📍-Pililla,_Rizal,_PH-5DCAA5?style=flat-square&labelColor=E1F5EE)](https://www.google.com/maps/search/Pililla%2C%20Rizal%2C%20Calabarzon%2C%201910%2C%20Philippines)
 [![Education](https://img.shields.io/badge/BSIT-ICCT_Colleges_Antipolo-9FE1CB?style=flat-square&labelColor=E1F5EE)](https://github.com/Lazytech15)
 
 </div>
@@ -103,6 +103,33 @@ Native Android app for attendance tracking, synced with the IoT hardware system.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lazytech15&show_icons=true&theme=default&hide_border=true&title_color=0F6E56&icon_color=1D9E75&border_radius=10" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lazytech15&theme=default&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=0F6E56&border_radius=10" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazytech15&layout=pie&theme=default&hide_border=true&title_color=0F6E56&text_color=085041&border_radius=10&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazytech15&layout=compact&theme=default&hide_border=true&title_color=0F6E56&text_color=085041&border_radius=10&langs_count=10" />
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lazytech15&bg_color=ffffff&color=0F6E56&line=1D9E75&point=085041&area=true&area_color=E1F5EE&hide_border=true&radius=10" />
+
+</div>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lazytech15&theme=default&border_color=5DCAA5" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lazytech15&theme=default&border_color=5DCAA5" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lazytech15&theme=default&border_color=5DCAA5&utcOffset=8" />
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lazytech15&theme=default&border_color=5DCAA5" />
 
 </div>
 
