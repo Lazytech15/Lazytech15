@@ -101,13 +101,6 @@ Native Android app for attendance tracking, synced with the IoT hardware system.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lazytech15&show_icons=true&theme=default&hide_border=true&title_color=0F6E56&icon_color=1D9E75&border_radius=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazytech15&layout=compact&theme=default&hide_border=true&title_color=0F6E56&text_color=085041&border_radius=10&langs_count=10" />
-
-</div>
-
-<div align="center">
-
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lazytech15&bg_color=ffffff&color=0F6E56&line=1D9E75&point=085041&area=true&area_color=E1F5EE&hide_border=true&radius=10" />
 
 </div>
