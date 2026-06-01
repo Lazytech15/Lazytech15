@@ -1,195 +1,123 @@
 <div align="center">
 
-```
-██╗      █████╗ ███████╗██╗   ██╗████████╗███████╗ ██████╗██╗  ██╗ ██╗███████╗
-██║     ██╔══██╗╚══███╔╝╚██╗ ██╔╝╚══██╔══╝██╔════╝██╔════╝██║  ██║███║██╔════╝
-██║     ███████║  ███╔╝  ╚████╔╝    ██║   █████╗  ██║     ███████║╚██║███████╗
-██║     ██╔══██║ ███╔╝    ╚██╔╝     ██║   ██╔══╝  ██║     ██╔══██║ ██║╚════██║
-███████╗██║  ██║███████╗   ██║      ██║   ███████╗╚██████╗██║  ██║ ██║███████║
-╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═╝╚══════╝
-```
+# Hi, I build systems that work — even when the internet doesn't. 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%5B+SYSTEM+ONLINE+%5D;Full+Stack+Developer+%7C+IoT+Specialist+%7C+Hardware+Hacker" alt="Typing SVG" />
+**IT Specialist · Full Stack Developer · IoT Engineer**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FF00FF&height=120&section=header&text=MISSION%20CONTROL&fontSize=40&fontColor=000000&animation=twinkling&fontAlignY=35" />
-
-</div>
-
-```ascii
-┌─────────────────────────────────────────────────────────────────┐
-│  🎮 PLAYER STATS                                                │
-├─────────────────────────────────────────────────────────────────┤
-│  ▸ CLASS: Full Stack Commando                                  │
-│  ▸ SPECIALIZATION: Cross-Platform Warfare                      │
-│  ▸ WEAPON OF CHOICE: Code & Circuits                           │
-│  ▸ MISSION: Building the Future, One Commit at a Time         │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-## 📊 BATTLEFIELD STATISTICS
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lazytech15&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF1493&icon_color=FF69B4&text_color=FF00FF&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lazytech15&theme=radical&hide_border=true&background=000000&ring=FF1493&fire=FF69B4&currStreakLabel=FF00FF&border_radius=10" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazytech15&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF1493&text_color=FF00FF&border_radius=10" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lazytech15&theme=radical" />
+[![Open to Remote Work](https://img.shields.io/badge/Open_to-Remote_Work-0F6E56?style=flat-square&labelColor=E1F5EE)](mailto:your-email@example.com)
+[![Offline-First](https://img.shields.io/badge/Architecture-Offline--First-1D9E75?style=flat-square&labelColor=E1F5EE)](https://github.com/Lazytech15)
+[![Location](google.com/maps/search/Pililla%2C%20Rizal%2C%20Calabarzon%2C%201910%2C%20Philippines)](https://github.com/Lazytech15)
+[![Education](https://img.shields.io/badge/BSIT-ICCT_Colleges_Antipolo-9FE1CB?style=flat-square&labelColor=E1F5EE)](https://github.com/Lazytech15)
 
 </div>
 
 ---
 
+Full Stack Developer & IT Specialist at **JJC Engineering**, building resilient, offline-first systems for web, desktop, and mobile. I design and ship complete platforms — from NFC-based IoT attendance hardware to payroll and cooperative savings management — with encrypted endpoints and smart caching so operations never stop.
+
+---
+
+## 🗂️ Career Timeline
+
+| Period | Role | Company |
+|---|---|---|
+| **Mar 2026 – Present** | IT Specialist | JJC Engineering |
+| **Dec 2025** | BSIT Graduate | ICCT Colleges Antipolo |
+| **Dec 2025 – Feb 2026** | Part-time Developer | JJC Engineering |
+| **Aug 2025 – Nov 2025** | Intern | JJC Engineering |
+
+---
+
+## 🚀 Systems I've Built at JJC Engineering
+
+### 📡 NFC Attendance System
+IoT-powered attendance via **ESP32 + NFC scanner**. Evolved from a desktop app into a real-time hardware solution with cloud sync and offline fallback.
+`ESP32` `NFC` `React` `Electron` `MQTT` `Node.js`
+
+### 💰 Payroll Management System
+Full payroll computation and generation platform. Hashed/encrypted server-client responses. Works offline — payroll doesn't stop when the server does.
+`Node.js` `MySQL` `GoDaddy` `phpMyAdmin` `React`
+
+### 🤝 WSP Cooperative System *(Workers Saving Program)*
+Manages member contributions, balances, and financial records for the company cooperative. Built with security and auditability in mind.
+`React` `Express` `MySQL`
+
+### 📢 Operations & Announcement Platform
+Centralized operations dashboard and internal announcement broadcast system for company-wide communication.
+`React Native` `Firebase` `Android`
+
+### 📱 Attendance Management App
+Native Android app for attendance tracking, synced with the IoT hardware system. Cache-first architecture keeps it functional without connectivity.
+`React Native` `Android Studio` `Firebase`
+
+---
+
+## 🏗️ Architecture Philosophy
+
+> Every system I build uses **hashed/encrypted server-to-client responses** and an **offline-first + cache strategy** — so operations keep running even when the server or internet is unreachable. GoDaddy web hosting + phpMyAdmin as the database layer keeps infrastructure costs lean without sacrificing reliability or security.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Mobile & Desktop
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+
+### IoT & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+
+### Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-## 🗡️ WEAPONS LOADOUT
-
-### 「 FRONTEND ARSENAL 」
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs,vite,redux&theme=dark" />
-
-### 「 BACKEND OPERATIONS 」
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python,firebase,mysql,mongodb&theme=dark" />
-
-### 「 MOBILE & DESKTOP BATTALION 」
-
-<img src="https://skillicons.dev/icons?i=react,electron,androidstudio,flutter&theme=dark" />
-
-### 「 IOT & HARDWARE DIVISION 」
-
-<img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi,linux&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/NFC-FF1493?style=for-the-badge&logo=nfc&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/MQTT-FF69B4?style=for-the-badge&logo=mqtt&logoColor=white&labelColor=000000" />
-
-### 「 DEV TOOLS & UTILITIES 」
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm&theme=dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lazytech15&show_icons=true&theme=default&hide_border=true&title_color=0F6E56&icon_color=1D9E75&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lazytech15&theme=default&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=0F6E56&border_radius=10" />
 
 </div>
 
 ---
 
-<div align="center">
+## 📬 Let's Connect
 
-## 🎯 ACTIVE MISSIONS
+I'm actively open to **remote work** — freelance, part-time, or full-time.
 
-</div>
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  [████████████████████▓░░░░░░░░] 75%  Mobile App Development ║
-║  [████████████████▓░░░░░░░░░░░░] 60%  IoT ESP32 Integration  ║
-║  [███████████████████████▓░░░░░] 85%  Electron Desktop Apps  ║
-║  [██████████████████████████▓░░] 90%  Full Stack Web Systems ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-### 🔥 CURRENT OPERATIONS
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**📱 MOBILE STRIKE**
-```
-▸ React Native Apps
-▸ Cross-Platform UI/UX
-▸ Native Performance
-▸ Seamless Integration
-```
-
-</td>
-<td width="33%" align="center">
-
-**📡 IOT WARFARE**
-```
-▸ ESP32 Real-Time Data
-▸ NFC Scanning Systems
-▸ Hardware Prototyping
-▸ Cloud Connectivity
-```
-
-</td>
-<td width="33%" align="center">
-
-**🖥️ DESKTOP COMMAND**
-```
-▸ Electron Applications
-▸ System Integrations
-▸ Native OS Features
-▸ Auto-Update Systems
-```
-
-</td>
-</tr>
-</table>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Lazytech15-181717?style=flat-square&logo=github)](https://github.com/Lazytech15)
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
 
 ---
 
 <div align="center">
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lazytech15&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 COMMAND CENTER
-
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://github.com/Lazytech15">
-  <img src="https://img.shields.io/badge/GITHUB-FF1493?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-</a>
-<a href="https://twitter.com/your-profile">
-  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  "CODE IS LAW. HARDWARE IS POWER. INNOVATION IS VICTORY."  ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-### 💖 SYSTEM STATUS: ONLINE
-
-<img src="https://komarev.com/ghpvc/?username=Lazytech15&label=VISITORS&color=FF1493&style=for-the-badge" alt="Profile Views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FF00FF&height=120&section=footer&animation=twinkling" />
-
-</div>
-
----
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lazytech15&bg_color=000000&color=FF1493&line=FF69B4&point=FF00FF&area=true&hide_border=true)
-
-</div>
-
-<div align="center">
-
-**⚡ POWERED BY CAFFEINE & DETERMINATION ⚡**
-
+  <sub>Built and maintained by someone who ships real systems, not just side projects.</sub>
 </div>
